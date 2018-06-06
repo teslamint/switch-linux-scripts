@@ -5,3 +5,4 @@ linux
 shofel2
 u-boot
 *.tar.xz
+.vagrant
